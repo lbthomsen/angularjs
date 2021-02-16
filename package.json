@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lbthomsen/angularjs/issues"
   },
-  "homepage": "https://github.com/lbthomsen/angularjs#readme"
+  "homepage": "https://github.com/lbthomsen/angularjs#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
 }
